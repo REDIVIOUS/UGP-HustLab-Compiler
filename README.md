@@ -1,2 +1,2 @@
 # UGP-HustLab-Compiler
-[undergraduate project] Course Project of compiler principles in HUST.
+[undergraduate project in hust] Course Project of compiler principles in HUST. (mini-c language compiler)
